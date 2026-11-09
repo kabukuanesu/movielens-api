@@ -1,5 +1,6 @@
 fastapi[standard]
 uvicorn[standard]
+psycopg[binary]
 sqlalchemy[asyncio]
 asyncpg
 pydantic-settings
